@@ -1,4 +1,4 @@
-import { Step } from "@/app/components/steps/step";
+import { Step } from "@/components/steps/step";
 import { colors } from "@/styles/colors";
 import { MapPin, QrCode, Ticket } from "lucide-react-native";
 import { Text, View } from "react-native";
